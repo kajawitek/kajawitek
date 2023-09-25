@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hello there! 👋 I'm Kaja Witek
 
-Hi! After years of experience in finance analysis, where I extensively used Excel and experimented with Python, and trafficking digital campaign, I'm venturing into the vibrant world of Ruby on Rails development. 🚀
+Hi! After years of experience in finance analysis, where I extensively used Excel and experimented with Python, and trafficking digital campaigns, I'm venturing into the vibrant world of Ruby on Rails development. 🚀
 
 ## 🎯 Goals
 

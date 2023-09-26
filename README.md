@@ -30,7 +30,7 @@ Currently on the hunt for my first commercial internship or job as a Ruby on Rai
 
 - Always keen to meet and interact with experienced developers.
 - Regularly attend Ruby meetups ([PLRUG Warsaw](https://www.meetup.com/nerdsclub/)) and conferences ([Ruby Warsaw Community Conference](https://www.meetup.com/nerdsclub/events/294574789/), [WrocLove.rb](https://wrocloverb.com/)). If you're around, don't hesitate to say hi! 👋
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaja-witek-2888a9118/).
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kajawitek/).
 
 ## 🌼 Personal Interests
 

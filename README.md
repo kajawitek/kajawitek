@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 
 Hi! After years of experience in finance analysis, where I extensively used Excel and experimented with Python, and trafficking digital campaigns, I'm venturing into the vibrant world of Ruby on Rails development. 🚀
 
-## 🎯 Goals
-
-Currently on the hunt for my first commercial internship or job as a Ruby on Rails developer. If you have an opportunity or collaboration in mind, let's chat!
-
 ## 🌱 Journey So Far
 
 - Started my Ruby on Rails learning journey in 2022 with [nerds.family](https://nerds.family/), where I had the amazing opportunity to create my project: [Employee Recognition Platform](https://github.com/kajawitek/employee-recognition-platform-1649436267).
